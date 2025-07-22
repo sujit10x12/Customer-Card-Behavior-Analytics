@@ -256,7 +256,7 @@ The dashboard is split into two parts: one for detailed transaction analysis and
 - **Slicer** : I used Week numbers as a slicer.
 
 **Customer Analysis**  
-![report_customer](https://github.com/user-attachments/assets/23f9b649-7f7c-4ba1-a20c-2d9a029a5c1e)
+![customer_dasboard](https://github.com/user-attachments/assets/ae96a740-383d-45ec-9768-a80f2241e2c7)
 
 - **KPIs** : There are 4 main KPIs present here as well. They are Revenue, Total Transacted Amount, Customer’s Total Income & CSS or Customer Satisfaction Score.
 - **Filters** : Here, for filters I used Customer gender as a general divider between almost all the data. I also used Card Type & Quarter as before, but introduced Card Type.
