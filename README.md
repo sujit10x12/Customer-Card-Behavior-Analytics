@@ -190,7 +190,7 @@ FROM
 ## 🔌 Connecting SQL Server Database to Power BI
 Linking SQL Server Management Studio database directly to Power BI in order to easily visualize and analyze the data in real-time.
 
-<img width="581" height="290" alt="sql-powerbi" src="https://github.com/user-attachments/assets/47438b6a-1895-483b-8311-dd056677b27c" />
+<img width="1584" height="396" alt="sql_power_bi" src="https://github.com/user-attachments/assets/5d40c237-d92b-42ed-94f0-3beae4464260" />
 
 Before diving into the analysis and visualization with the help of DAX queries, additional calculated columns and measures were created. These included key business metrics and performance indicators tailored to support effective dashboard insights.
 
