@@ -7,7 +7,7 @@
 
 This project focuses on analyzing credit card transaction data to uncover key insights, trends, and performance metrics. Using SQL for data extraction and transformation, and Power BI for visualization, the goal is to build a dynamic weekly dashboard that empowers stakeholders with real-time, data-driven insights into credit card operations.
 
-> ✅ And **SQL Queries** here:** [🔗 View Jupyter Notebook](queries.sql)
+> ✅ And **SQL Queries** here:** [🔗 View SQL queries](queries.sql)
 
 ---
 
