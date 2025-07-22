@@ -249,7 +249,7 @@ WOW_Revenue = DIVIDE([Current_Week_Revenue]-[Previous_Week_Revenue],[Previous_We
 The dashboard is split into two parts: one for detailed transaction analysis and another for customer-level insights, enabling focused and comprehensive reporting.
 
 **Transaction Analysis**  
-![report_transaction](https://github.com/user-attachments/assets/febf8580-9b6e-45e3-ad3b-bd4d9df1ffef)
+![transactions_report](https://github.com/user-attachments/assets/2b35af12-d292-452e-9eda-9fc2933cd07a)
 
 - **KPIs** : There are 4 main KPIs present. They are Revenue, Total Transacted Amount, Total Interest & Count of Transaction.
 - **Filters** : For filters I used Card Type, Quarter, Customer Income Groups & their genders.
