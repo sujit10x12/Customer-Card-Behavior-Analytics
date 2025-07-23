@@ -39,7 +39,7 @@ Built a dynamic weekly dashboard for credit card operations using Power BI and S
 
 ---
 
-## 📁 Dataset Details
+## 📁 Dataset Understanding
 
 This analysis is based on a structured dataset in CSV format, containing 10,108 records across 18 features.
 
