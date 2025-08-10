@@ -183,7 +183,7 @@ FROM
 	dbo.customer
 ```
 
-- 📄 Note: For better readability, only key snippets are shown in this README. You can view the full set of SQL queries <a href="">**in this file**</a>
+- 📄 Note: For better readability, only key snippets are shown in this README. You can view the full set of SQL queries <a href="/queries.sql">**in this file**</a>
 
 ---
 
