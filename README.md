@@ -1,5 +1,5 @@
 # 💳 Credit Card Analysis using PowerBi and SQL
-![credit_card1](https://github.com/user-attachments/assets/8180e624-f85a-4463-a52f-8cf621945c4d)
+<img width="1584" height="396" alt="banner" src="/images/banner.png" />
 
 ---
 
@@ -190,7 +190,7 @@ FROM
 ## 🔌 Connecting SQL Server Database to Power BI
 Linking SQL Server Management Studio database directly to Power BI in order to easily visualize and analyze the data in real-time.
 
-<img width="1584" height="396" alt="connect" src="https://github.com/user-attachments/assets/aa9a810c-1b7d-4c35-b684-b78045c1b88d" />
+<img width="1584" height="396" alt="banner" src="/images/connect.png" />
 
 Before diving into the analysis and visualization with the help of DAX queries, additional calculated columns and measures were created. These included key business metrics and performance indicators tailored to support effective dashboard insights.
 
@@ -249,14 +249,14 @@ WOW_Revenue = DIVIDE([Current_Week_Revenue]-[Previous_Week_Revenue],[Previous_We
 The dashboard is split into two parts: one for detailed transaction analysis and another for customer-level insights, enabling focused and comprehensive reporting.
 
 **Transaction Analysis**  
-![transactions_report](https://github.com/user-attachments/assets/2b35af12-d292-452e-9eda-9fc2933cd07a)
+<img width="1584" height="396" alt="banner" src="/images/report_transaction.png" />
 
 - **KPIs** : There are 4 main KPIs present. They are Revenue, Total Transacted Amount, Total Interest & Count of Transaction.
 - **Filters** : For filters I used Card Type, Quarter, Customer Income Groups & their genders.
 - **Slicer** : I used Week numbers as a slicer.
 
 **Customer Analysis**  
-![customer_dasboard](https://github.com/user-attachments/assets/ae96a740-383d-45ec-9768-a80f2241e2c7)
+<img width="1584" height="396" alt="banner" src="/images/report_customer.jpg" />
 
 - **KPIs** : There are 4 main KPIs present here as well. They are Revenue, Total Transacted Amount, Customer’s Total Income & CSS or Customer Satisfaction Score.
 - **Filters** : Here, for filters I used Customer gender as a general divider between almost all the data. I also used Card Type & Quarter as before, but introduced Card Type.
